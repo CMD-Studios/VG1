@@ -19,6 +19,8 @@
 				"C:/Users/Matt Dixey/Desktop/UnrealProjects/VG1/VG1/VideoGame1/Content/Core/GameModes/GM_ZeroGravityGame.uasset",
 				"C:/Users/Matt Dixey/Desktop/UnrealProjects/VG1/VG1/VideoGame1/Content/Core/Input/Actions/IA_Rotate.uasset",
 				"C:/Users/Matt Dixey/Desktop/UnrealProjects/VG1/VG1/VideoGame1/Content/Core/Input/Actions/IA_WallRun.uasset",
+				"C:/Users/Matt Dixey/Desktop/UnrealProjects/VG1/VG1/VideoGame1/Content/Core/Blueprints/BP_WallRun.uasset",
+				"C:/Users/Matt Dixey/Desktop/UnrealProjects/VG1/VG1/VideoGame1/Content/MaterialLibrary/M_WallRun.uasset",
 				"C:/Users/Matt Dixey/Desktop/UnrealProjects/VG1/VG1/VideoGame1/Content/Core/GameModes/GM_Gravity.uasset",
 				"C:/Users/Matt Dixey/Desktop/UnrealProjects/VG1/VG1/VideoGame1/Content/Maps/Ninja.umap",
 				"C:/Users/Matt Dixey/Desktop/UnrealProjects/VG1/VG1/VideoGame1/Content/Characters/Player/BP_GravityBounds.uasset",
